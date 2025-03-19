@@ -3,14 +3,10 @@
 ### Date created
 3/20/2025
 
-### Project Title
-Replace the Project Title
-
-### Description
-Describe what your project is about and what it does
-
-### Files used
-Include the files used
-
 ### Credits
 me and Udacity
+
+### Technologies 
+Python 
+
+
