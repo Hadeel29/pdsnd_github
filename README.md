@@ -11,4 +11,4 @@ This project utilizes Python to analyze bikeshare data from U.S. cities like Chi
 chicago.csv washington.csv new_york_city.csv
 
 ### Credits
-Thanks to my hard-work and Udacity 
+Thanks to my hard-work and Udacity for the usful resourses
