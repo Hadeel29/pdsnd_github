@@ -3,6 +3,7 @@ import pandas as pd
 import numpy as np
 import click
 
+# Explore US Bikeshare Data
 # Dictionary to hold the paths to the city data files
 CITY_DATA = {
     'chicago': 'chicago.csv',
